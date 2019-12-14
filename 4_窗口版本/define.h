@@ -1,0 +1,7 @@
+#pragma once
+//´°¿Ú²ÎÊý
+#define WND_WIDE 1000
+#define WND_HEIGHT WND_WIDE
+#define BLOCK_WIDE (WND_WIDE/12)
+#define FRAME_GAP_WIDE ((WND_WIDE-BLOCK_WIDE*10)/2)/2
+#define FRAME_GAP_HEIGHT ((WND_WIDE-BLOCK_WIDE*10)/2)/2
