@@ -33,6 +33,8 @@
  
 - 设计表示：
 
+![](https://github.com/Coder-0x7fffffff/Bejeweled/blob/master/img/1.png)
+
 ## 【调试报告】 ##
 
 
@@ -65,3 +67,5 @@
 - 测试数据及运行结果：
 
 
+![](https://github.com/Coder-0x7fffffff/Bejeweled/blob/master/img/2.png)
+![](https://github.com/Coder-0x7fffffff/Bejeweled/blob/master/img/3.png)
